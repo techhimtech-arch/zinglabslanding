@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "taskflow",
+      "name": "TaskFlow",
+      "description": "Smart task management with AI-powered prioritization and team collaboration features.",
+      "category": "Productivity Apps",
+      "logo": "https://cdn.pexels.com/photo/68629/pexels-photo-68629.jpeg?auto=compress&cs=tinysrgb&w=126&h=126",
+      "url": "https://example.com/taskflow",
+      "status": "live"
+    },
+    {
+      "id": "aistudio",
+      "name": "AI Studio",
+      "description": "Create, train, and deploy custom AI models without writing a single line of code.",
+      "category": "AI Tools",
+      "logo": "https://cdn.pexels.com/photo/8386130/pexels-photo-8386130.jpeg?auto=compress&cs=tinysrgb&w=126&h=126",
+      "url": "https://example.com/aistudio",
+      "status": "live"
+    },
+    {
+      "id": "invoicehub",
+      "name": "InvoiceHub",
+      "description": "Automated invoicing and payment tracking for freelancers and small businesses.",
+      "category": "Business Tools",
+      "logo": "https://cdn.pexels.com/photo/669332/pexels-photo-669332.jpeg?auto=compress&cs=tinysrgb&w=126&h=126",
+      "url": "https://example.com/invoicehub",
+      "status": "live"
+    },
+    {
+      "id": "notebookai",
+      "name": "Notebook AI",
+      "description": "Intelligent note-taking app that summarizes, organizes, and connects your thoughts.",
+      "category": "AI Tools",
+      "logo": "https://cdn.pexels.com/photo/261763/pexels-photo-261763.jpeg?auto=compress&cs=tinysrgb&w=126&h=126",
+      "url": "https://example.com/notebookai",
+      "status": "live"
+    },
+    {
+      "id": "dataform",
+      "name": "DataForm",
+      "description": "Build beautiful forms and surveys with real-time analytics and AI insights.",
+      "category": "Business Tools",
+      "logo": "https://cdn.pexels.com/photo/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=126&h=126",
+      "url": "https://example.com/dataform",
+      "status": "development"
+    },
+    {
+      "id": "codeassist",
+      "name": "CodeAssist",
+      "description": "AI-powered code review and debugging assistant for development teams.",
+      "category": "Utilities",
+      "logo": "https://cdn.pexels.com/photo/4974915/pexels-photo-4974915.jpeg?auto=compress&cs=tinysrgb&w=126&h=126",
+      "url": "https://example.com/codeassist",
+      "status": "development"
+    },
+    {
+      "id": "learnpulse",
+      "name": "LearnPulse",
+      "description": "Adaptive learning platform that personalizes educational content based on progress.",
+      "category": "Education",
+      "logo": "https://cdn.pexels.com/photo/4144222/pexels-photo-4144222.jpeg?auto=compress&cs=tinysrgb&w=126&h=126",
+      "url": "https://example.com/learnpulse",
+      "status": "upcoming"
+    },
+    {
+      "id": "analyticsxr",
+      "name": "Analytics XR",
+      "description": "Next-gen business intelligence with extended reality data visualization.",
+      "category": "Custom Solutions",
+      "logo": "https://cdn.pexels.com/photo/163097/pexels-photo-163097.jpeg?auto=compress&cs=tinysrgb&w=126&h=126",
+      "url": "https://example.com/analyticsxr",
+      "status": "upcoming"
+    }
+  ]
+}
