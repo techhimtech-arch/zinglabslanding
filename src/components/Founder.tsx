@@ -7,7 +7,7 @@ const Founder = () => {
       <div className="absolute inset-0 bg-gradient-to-b from-dark-900 to-dark-800" />
 
       {/* Decorative gradient */}
-      <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[600px] h-[400px] bg-gradient-radial from-indigo-500/10 via-purple-500/5 to-transparent blur-3xl" />
+      <div className="radial-glow top-0 left-1/2 h-[24rem] w-[36rem] -translate-x-1/2 bg-sky-500/10" />
 
       <div className="relative z-10 max-w-5xl mx-auto px-6">
         <motion.div
@@ -31,9 +31,7 @@ const Founder = () => {
           </motion.div>
 
           {/* Title */}
-          <h2 className="text-4xl md:text-5xl font-bold text-white mb-8">
-            Founder Vision
-          </h2>
+          <h2 className="section-title mb-8">Founder Vision</h2>
 
           {/* Quote */}
           <motion.div
@@ -56,7 +54,7 @@ const Founder = () => {
             whileInView={{ opacity: 1 }}
             viewport={{ once: true }}
             transition={{ duration: 0.8, delay: 0.5 }}
-            className="text-dark-300 max-w-3xl mx-auto leading-relaxed"
+            className="section-copy max-w-3xl mx-auto"
           >
             We are committed to building lightweight, practical, and useful software. No bloat, no complexity—just solutions that work. Our products are designed to integrate seamlessly into your workflow, helping you accomplish more with less effort. We are in this for the long run, building products that last.
           </motion.p>

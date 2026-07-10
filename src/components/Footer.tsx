@@ -33,7 +33,7 @@ const Footer = () => {
   return (
     <footer className="relative pt-20 pb-8 overflow-hidden">
       {/* Background */}
-      <div className="absolute inset-0 bg-dark-900" />
+      <div className="absolute inset-0 bg-gradient-to-b from-dark-900 via-dark-900 to-[#02040c]" />
 
       {/* Top border gradient */}
       <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-dark-500 to-transparent" />
@@ -48,7 +48,7 @@ const Footer = () => {
               className="flex items-center gap-2 mb-4"
               whileHover={{ scale: 1.02 }}
             >
-              <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center">
+              <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-sky-500 to-emerald-400 flex items-center justify-center shadow-lg shadow-sky-500/20">
                 <span className="text-white font-bold text-sm">Z</span>
               </div>
               <span className="text-xl font-semibold text-white">Zinglabs</span>
@@ -94,7 +94,7 @@ const Footer = () => {
         </div>
 
         {/* Bottom bar */}
-        <div className="pt-8 border-t border-dark-700">
+        <div className="pt-8 border-t border-dark-700/80">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-dark-400 text-sm">
               &copy; {new Date().getFullYear()} Zinglabs. All rights reserved.

@@ -30,15 +30,18 @@ function App() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-dark-900">
+    <div className="page-shell min-h-screen bg-dark-900 text-dark-100">
+      <div className="absolute inset-x-0 top-0 h-[48rem] bg-gradient-to-b from-sky-500/10 via-transparent to-transparent pointer-events-none" />
       <Navbar />
-      <Hero />
-      <Products products={products} />
-      <Categories />
-      <WhyZinglabs />
-      <Roadmap products={products} />
-      <Founder />
-      <Contact />
+      <main>
+        <Hero />
+        <Products products={products} />
+        <Categories />
+        <WhyZinglabs />
+        <Roadmap products={products} />
+        <Founder />
+        <Contact />
+      </main>
       <Footer />
     </div>
   );
