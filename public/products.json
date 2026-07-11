@@ -1,6 +1,24 @@
 {
   "products": [
     {
+      "id": "myhotel",
+      "name": "MyHotel",
+      "description": "Comprehensive hotel management and booking system.",
+      "category": "Business Tools",
+      "logo": "https://cdn.pexels.com/photo/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=126&h=126",
+      "url": "https://myhotel.zinglabs.in",
+      "status": "live"
+    },
+    {
+      "id": "idcardstudio",
+      "name": "ID Card Studio",
+      "description": "Create and manage professional ID cards with ease.",
+      "category": "Utilities",
+      "logo": "https://cdn.pexels.com/photo/2099307/pexels-photo-2099307.jpeg?auto=compress&cs=tinysrgb&w=126&h=126",
+      "url": "https://idcardstudio.zinglabs.in",
+      "status": "live"
+    },
+    {
       "id": "taskflow",
       "name": "TaskFlow",
       "description": "Smart task management with AI-powered prioritization and team collaboration features.",
