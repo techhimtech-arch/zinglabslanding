@@ -35,6 +35,15 @@
       "logo": "https://cdn.pexels.com/photo/4144222/pexels-photo-4144222.jpeg?auto=compress&cs=tinysrgb&w=126&h=126",
       "url": "https://learn.himsols.com",
       "status": "live"
+    },
+    {
+      "id": "reelengine",
+      "name": "Reel Engine",
+      "description": "Automated drag-and-drop video timeline editor and renderer for creators. Download for Windows.",
+      "category": "Creator Tools",
+      "logo": "https://cdn.pexels.com/photo/2510428/pexels-photo-2510428.jpeg?auto=compress&cs=tinysrgb&w=126&h=126",
+      "url": "#",
+      "status": "live"
     }
   ]
 }
